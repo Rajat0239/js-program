@@ -1,0 +1,8 @@
+Some Controller Filters and Helpers
+
+To set up a controller with user authentication before_action :authenticate_user!
+To verify if a user is signed in or not => user_signed_in?
+For the current signed-in user => current_user
+access the session for this scope: => user_session
+You can also override after_sign_in_path_for and after_sign_out_path_for to customize your redirect paths.
+You can integrate ‘activeadmin’ gem, ‘devise_invitable’ gem with devises.
