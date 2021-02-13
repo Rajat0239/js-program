@@ -301,6 +301,11 @@
 // console.log(sum)
 
 
+
+
+//ALL PROGRAMS OF LOOP
+
+
 //Write a program to display n terms of natural number and their sum.
 // var sum = 0 
 // for(var i = 1 ; i <= 7 ; i++)
