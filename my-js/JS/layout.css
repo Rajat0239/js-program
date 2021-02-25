@@ -1,0 +1,148 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.header{
+    background:red;
+    height: 75px;
+    padding: 5px 0px;
+}
+
+.nav{
+    background: yellow;
+    height: 40px;
+}
+
+.left-body{
+    width: 20%;
+    background: pink;
+    height: 400px;
+    float: left;
+}
+
+
+.center-body{
+    width: 60%;
+    background: green;
+    float: left;
+}    
+.right-body{
+    width: 20%;
+    background: gray;
+    height: 400px;
+    float: left;
+}
+
+.footer{
+    background: gold;
+    height: 50px;
+}
+
+
+.clear-fix{
+    clear:both
+}
+
+.header img{
+    max-width: 75px;
+    max-height: 75px;
+}
+
+.header .logo{
+    border-radius: 150px;
+    width:75px;
+    height: 75px;
+    overflow: hidden;
+    float: left;
+    margin-left: 35px;
+}
+    
+
+.header h1{
+    float: left;
+    margin-top:20px;
+    margin-left:35px;
+}
+
+
+.nav ul{
+    margin-left:50px;
+    list-style-type: none;
+}
+
+.nav ul li{
+    float: left;
+    padding: 8px 65px;
+    font-size: 20px;
+}
+.nav ul li a{
+    text-decoration: none;
+}
+
+.left-body{
+    text-align: center;
+}
+.left-body img{
+    margin-top:25px;
+    max-width: 150px;
+    height: 150px;
+    border-radius: 100px;
+}
+
+
+.left-body ul{
+    list-style-type: none;
+    margin-top:20px;
+}
+
+.left-body ul li{
+    margin:10px 0px;
+}
+.post-area{
+    text-align: center;
+    margin-top:50px;
+}
+.post-area textarea{
+    width: 550px;
+    height: 140px;
+    resize: none;
+}
+
+.btn{
+    padding: 10px 25px;
+    font-size: 20px;    
+    border-radius: 2px;
+    border: none;
+    box-shadow: 2px 4px 5px;
+}
+
+
+.post-btn-container button{
+    margin-left:583px;
+    margin-top: 5px;
+}
+
+.post{
+    height: 150px;
+    overflow: hidden;
+    margin:10px 0px;
+    background: #fff;
+}
+.post .img-container{
+    width: 25%;
+    float: left;
+}
+
+.post .img-container img{
+    width:100%;
+}
+
+.post-content{
+    width: 75%;
+    float: left;
+}
+
+.highlighted{
+    background:yellow;
+}

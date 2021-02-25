@@ -1,0 +1,45 @@
+*{
+    margin:0px;
+}
+
+
+p{
+    color:hsl(233, 68%, 42%);
+    font-size:2rem;
+    /* text-decoration: line-through; */
+    /* text-decoration-color: red;
+    text-decoration-line: line-through;
+    text-decoration-style: solid; */
+    text-decoration: none;
+    text-align: justify;
+    text-transform: lowercase;
+    text-indent: 25px;
+    line-height: 50px;
+    letter-spacing: 10px;
+    word-spacing: 50px;
+    text-shadow: 5px 5px 5px;
+    background: yellow;
+    margin-top:20px;
+    padding-top:20px;
+    border:1px solid black;
+    border-radius: 50px;
+}
+
+
+h1{
+    background: pink;
+}
+
+
+label{
+    background:red;
+}
+
+
+#box{
+    background: red;
+    height: 250px;
+    width: 250px;
+    border-top-left-radius: 250px;
+    border-bottom-right-radius: 250px;
+}
