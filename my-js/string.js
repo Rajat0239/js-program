@@ -15,7 +15,7 @@
 
 
 //highest occurance of character
-// var str = "my name is rajat gupta and i am a software engineer"
+// var str = "anu webkorps and"
 // var occuranceCount = []
 // var arrayOfObjects = [] 
 // for(var i = 0 ; i < str.length ; i++){
@@ -50,6 +50,5 @@
 //   });
 //   console.log(maxCharobj)
 // }
-
 
 // checkMaxCharCount(arrayOfObjects)
